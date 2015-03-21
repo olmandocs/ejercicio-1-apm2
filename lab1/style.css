@@ -72,7 +72,7 @@ hasta 960px*/
 }
 
 /*entre 321px y 480px*/
-@media (min-width: 321px) and (max-width: 480px){
+@media screen and (min-width: 321px) and (max-width: 480px){
 	#container header{
 		background: #232323;
 		border-bottom: 5px solid; 
